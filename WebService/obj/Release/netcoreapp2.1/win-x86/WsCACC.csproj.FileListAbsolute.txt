@@ -1,0 +1,17 @@
+C:\TesteLoginReact\WebService\bin\Release\netcoreapp2.1\win-x86\WsCACC.exe
+C:\TesteLoginReact\WebService\bin\Release\netcoreapp2.1\win-x86\WsCACC.deps.json
+C:\TesteLoginReact\WebService\bin\Release\netcoreapp2.1\win-x86\WsCACC.runtimeconfig.json
+C:\TesteLoginReact\WebService\bin\Release\netcoreapp2.1\win-x86\WsCACC.runtimeconfig.dev.json
+C:\TesteLoginReact\WebService\bin\Release\netcoreapp2.1\win-x86\WsCACC.dll
+C:\TesteLoginReact\WebService\bin\Release\netcoreapp2.1\win-x86\WsCACC.pdb
+C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\win-x86\WsCACC.csprojAssemblyReference.cache
+C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\win-x86\WsCACC.csproj.CoreCompileInputs.cache
+C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\win-x86\WsCACC.RazorAssemblyInfo.cache
+C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\win-x86\WsCACC.RazorAssemblyInfo.cs
+C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\win-x86\WsCACC.AssemblyInfoInputs.cache
+C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\win-x86\WsCACC.AssemblyInfo.cs
+C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\win-x86\WsCACC.RazorTargetAssemblyInfo.cache
+C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\win-x86\WsCACC.dll
+C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\win-x86\WsCACC.pdb
+C:\TesteLoginReact\WebService\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\TesteLoginReact\WebService\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll

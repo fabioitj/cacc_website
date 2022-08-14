@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WsCACC</name>
+    </assembly>
+    <members>
+        <member name="T:WsCACC.Controllers.AuthController">
+            <summary>
+            Controlador Projetos
+            </summary>    
+        </member>
+        <member name="M:WsCACC.Controllers.AuthController.signin(WsCACC.Model.Signin)">
+            <summary>
+            Faz o Login
+            </summary>
+            <param name="signin">objeto de login</param>
+            <returns>
+            </returns>
+            <response code="200">Sucess</response>
+        </member>
+        <member name="M:WsCACC.Controllers.AuthController.validateToken(System.String)">
+            <summary>
+            Valida o Token
+            </summary>
+            <param name="token">token</param>
+            <returns>
+            </returns>
+            <response code="200">Sucess</response>
+        </member>
+        <member name="T:WsCACC.Controllers.DiretoriaController">
+            <summary>
+            Controlador Quem Somos
+            </summary>    
+        </member>
+        <member name="M:WsCACC.Controllers.DiretoriaController.getDiretoria">
+            <summary>
+            Retorna os registros da diretoria ativos
+            </summary>
+            <returns>
+            </returns>
+            <response code="200">Sucess</response>
+        </member>
+        <member name="M:WsCACC.Controllers.DiretoriaController.getFullDiretoria">
+            <summary>
+            Retorna os registros da diretoria ativos e desativados
+            </summary>
+            <returns>
+            </returns>
+            <response code="200">Sucess</response>
+        </member>
+        <member name="M:WsCACC.Controllers.DiretoriaController.alterarStatus(System.String)">
+            <summary>
+            Ativa ou Desativa o registro
+            </summary>
+            <param name="id">id do registro</param>
+            <returns>
+            </returns>
+            <response code="200">Sucess</response>
+        </member>
+    </members>
+</doc>

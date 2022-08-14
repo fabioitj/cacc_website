@@ -1,0 +1,15 @@
+C:\TesteLoginReact\WebService\obj\Debug\netcoreapp2.1\WsCACC.AssemblyInfoInputs.cache
+C:\TesteLoginReact\WebService\obj\Debug\netcoreapp2.1\WsCACC.AssemblyInfo.cs
+C:\TesteLoginReact\WebService\obj\Debug\netcoreapp2.1\WsCACC.csproj.CoreCompileInputs.cache
+C:\TesteLoginReact\WebService\obj\Debug\netcoreapp2.1\WsCACC.RazorAssemblyInfo.cache
+C:\TesteLoginReact\WebService\obj\Debug\netcoreapp2.1\WsCACC.RazorAssemblyInfo.cs
+C:\TesteLoginReact\WebService\bin\Debug\netcoreapp2.1\WsCACC.deps.json
+C:\TesteLoginReact\WebService\bin\Debug\netcoreapp2.1\WsCACC.runtimeconfig.json
+C:\TesteLoginReact\WebService\bin\Debug\netcoreapp2.1\WsCACC.runtimeconfig.dev.json
+C:\TesteLoginReact\WebService\bin\Debug\netcoreapp2.1\WsCACC.dll
+C:\TesteLoginReact\WebService\bin\Debug\netcoreapp2.1\WsCACC.pdb
+C:\TesteLoginReact\WebService\obj\Debug\netcoreapp2.1\WsCACC.RazorTargetAssemblyInfo.cache
+C:\TesteLoginReact\WebService\obj\Debug\netcoreapp2.1\WsCACC.dll
+C:\TesteLoginReact\WebService\obj\Debug\netcoreapp2.1\WsCACC.pdb
+C:\TesteLoginReact\WebService\obj\Debug\netcoreapp2.1\WsCACC.csprojAssemblyReference.cache
+C:\TesteLoginReact\WebService\bin\Debug\netcoreapp2.1\WsCACC.xml
