@@ -18169,11 +18169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TesteLoginReact\\WebService\\WsCACC.csproj",
+      "projectUniqueName": "C:\\ModallPort\\GitHub\\cacc_website\\WebService\\WsCACC.csproj",
       "projectName": "WsCACC",
-      "projectPath": "C:\\TesteLoginReact\\WebService\\WsCACC.csproj",
+      "projectPath": "C:\\ModallPort\\GitHub\\cacc_website\\WebService\\WsCACC.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\TesteLoginReact\\WebService\\obj\\publish\\win-x64\\",
+      "outputPath": "C:\\ModallPort\\GitHub\\cacc_website\\WebService\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

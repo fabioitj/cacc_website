@@ -10,6 +10,42 @@ namespace WsCACC.Dao
 {
     public class DaoDiretoria
     {
+        public bool createRegistro(CreateDiretoria model)
+        {
+            ConnectionMySql conexao = new ConnectionMySql();
+            try
+            {
+                string sql = $@"    INSERT INTO 
+                                        CACC.DIRETORIA
+                                        (
+                                            NOME,
+                                            CARGO,
+                                            APRESENTACAO,
+                                            IMAGEM,
+                                            ATIVO,
+                                            ORDEM
+                                        )
+                                        VALUES
+                                        (
+                                            '{model.nome}',
+                                            '{model.cargo}',
+                                            '{model.apresentacao}',
+                                            '{model.imagem}',
+                                            'S',
+                                            2
+                                        )";
+
+                conexao.StartTransaction();
+                conexao.ExecuteNonQuery(sql);
+                conexao.CommitTransaction();
+                return true;
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public List<Diretoria> getDiretoria()
         {
             ConnectionMySql conexao = new ConnectionMySql();
@@ -201,6 +237,25 @@ namespace WsCACC.Dao
             catch(Exception ex)
             {
                 conexao.RollBackTransaction();
+                throw ex;
+            }
+        }
+
+        public bool deleteRegistro(string id)
+        {
+            ConnectionMySql conexao = new ConnectionMySql();
+            try
+            {
+                conexao.StartTransaction();
+
+                string sqlDelete = $@"DELETE FROM CACC.DIRETORIA WHERE IDDIRETORIA = '{id}'";
+                conexao.ExecuteNonQuery(sqlDelete);
+                conexao.CommitTransaction();
+
+                return true;
+            }
+            catch(Exception ex)
+            {
                 throw ex;
             }
         }

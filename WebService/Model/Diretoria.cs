@@ -14,4 +14,18 @@ namespace WsCACC.Model
         public string imagem { get; set; }
         public string ativo { get; set; }
     }
+
+    public class CreateDiretoria
+    {
+        public string iddiretoria { get; set; }
+        public string nome { get; set; }
+        public string cargo { get; set; }
+        public string apresentacao { get; set; }
+        public string imagem { get; set; }
+        
+        public string getId()
+        {
+            return this.iddiretoria;
+        }
+    }
 }

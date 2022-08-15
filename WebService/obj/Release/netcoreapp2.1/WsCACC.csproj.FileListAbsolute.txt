@@ -12,3 +12,17 @@ C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\WsCACC.AssemblyInfo.cs
 C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\WsCACC.RazorTargetAssemblyInfo.cache
 C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\WsCACC.dll
 C:\TesteLoginReact\WebService\obj\Release\netcoreapp2.1\WsCACC.pdb
+C:\ModallPort\GitHub\cacc_website\WebService\bin\Release\netcoreapp2.1\WsCACC.deps.json
+C:\ModallPort\GitHub\cacc_website\WebService\bin\Release\netcoreapp2.1\WsCACC.runtimeconfig.json
+C:\ModallPort\GitHub\cacc_website\WebService\bin\Release\netcoreapp2.1\WsCACC.runtimeconfig.dev.json
+C:\ModallPort\GitHub\cacc_website\WebService\bin\Release\netcoreapp2.1\WsCACC.dll
+C:\ModallPort\GitHub\cacc_website\WebService\bin\Release\netcoreapp2.1\WsCACC.pdb
+C:\ModallPort\GitHub\cacc_website\WebService\obj\Release\netcoreapp2.1\WsCACC.csprojAssemblyReference.cache
+C:\ModallPort\GitHub\cacc_website\WebService\obj\Release\netcoreapp2.1\WsCACC.csproj.CoreCompileInputs.cache
+C:\ModallPort\GitHub\cacc_website\WebService\obj\Release\netcoreapp2.1\WsCACC.RazorAssemblyInfo.cache
+C:\ModallPort\GitHub\cacc_website\WebService\obj\Release\netcoreapp2.1\WsCACC.RazorAssemblyInfo.cs
+C:\ModallPort\GitHub\cacc_website\WebService\obj\Release\netcoreapp2.1\WsCACC.AssemblyInfoInputs.cache
+C:\ModallPort\GitHub\cacc_website\WebService\obj\Release\netcoreapp2.1\WsCACC.AssemblyInfo.cs
+C:\ModallPort\GitHub\cacc_website\WebService\obj\Release\netcoreapp2.1\WsCACC.RazorTargetAssemblyInfo.cache
+C:\ModallPort\GitHub\cacc_website\WebService\obj\Release\netcoreapp2.1\WsCACC.dll
+C:\ModallPort\GitHub\cacc_website\WebService\obj\Release\netcoreapp2.1\WsCACC.pdb
